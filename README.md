@@ -20,4 +20,8 @@ Currently, two official plugins are available:
          <p>Use <code>create-react-app</code> to set up your React project:</p>
          <pre><code>npx create-react-app news-app</code></pre>
         </li>
+        <li>
+                <b>Navigate to the Project Directory:</b>
+                <pre><code>cd news-app</code></pre>
+            </li>
 </ol>
