@@ -29,5 +29,13 @@ Currently, two official plugins are available:
                 <pre><code>npm start</code></pre>
                 <p>This will open the app in your default web browser at <code>http://localhost:3000</code>.</p>
             </li>
-        
+        <li>
+                <b>Build the News App:</b>
+                <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
+                <ul>
+                    <li>News listing</li>
+                    <li>Search functionality</li>
+                    <li>Category filters</li>
+                </ul>
+            </li>
 </ol>
