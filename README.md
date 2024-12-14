@@ -52,3 +52,15 @@ Currently, two official plugins are available:
                 <p>This creates an optimized production build in the <code>build</code> folder.</p>
             </li>
 </ol>
+<h2>Folder Structure:</h2>
+<pre>
+        <code>
+news-app/
+├── public/       // Static files (e.g., index.html)
+├── src/          // React components, styles, and logic
+│   ├── components/  // Reusable UI components
+│   ├── App.js       // Main app component
+│   ├── index.js     // Entry point
+├── package.json  // Project dependencies and scripts
+        </code>
+</pre>
