@@ -67,4 +67,5 @@ news-app/
 <h2>Tips:</h2>
 <ul>
         <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> for pre-designed UI components.</li>
+        <li>Integrate features like infinite scrolling for better user experience.</li>
 </ul>
