@@ -64,3 +64,4 @@ news-app/
 ├── package.json  // Project dependencies and scripts
         </code>
 </pre>
+<h2>Tips:</h2>
