@@ -68,4 +68,5 @@ news-app/
 <ul>
         <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> for pre-designed UI components.</li>
         <li>Integrate features like infinite scrolling for better user experience.</li>
+        <li>Test the app across devices to ensure responsiveness.</li>
 </ul>
