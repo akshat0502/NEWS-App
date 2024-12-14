@@ -65,3 +65,6 @@ news-app/
         </code>
 </pre>
 <h2>Tips:</h2>
+<ul>
+        <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> for pre-designed UI components.</li>
+</ul>
