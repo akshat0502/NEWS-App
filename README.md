@@ -38,17 +38,17 @@ Currently, two official plugins are available:
             <li>Category filters</li>
         </ul>
     </li>
+    <li>
+        <b>Fetch News Data:</b>
+        <p>Use a news API like <a href="https://newsapi.org" target="_blank">NewsAPI</a> to fetch the latest articles:</p>
+        <pre><code>fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=YOUR_API_KEY')
+  .then(response => response.json())
+  .then(data => console.log(data));</code></pre>
+    </li>
 </ol>
 <ol>
         <li>
-            
-            </li>
-        <li>
-                <b>Fetch News Data:</b>
-                <p>Use a news API like <a href="https://newsapi.org" target="_blank">NewsAPI</a> to fetch the latest articles:</p>
-                <pre><code>fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=YOUR_API_KEY')
-  .then(response => response.json())
-  .then(data => console.log(data));</code></pre>
+                
             </li>
         <li>
                 <b>Build for Production:</b>
