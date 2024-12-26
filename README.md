@@ -24,6 +24,11 @@ Currently, two official plugins are available:
         <b>Navigate to the Project Directory:</b>
         <pre><code>cd news-app</code></pre>
     </li>
+    <li>
+        <b>Start the Development Server:</b>
+        <pre><code>npm start</code></pre>
+        <p>This will open the app in your default web browser at <code>http://localhost:3000</code>.</p>
+    </li>
 </ol>
 <ol>
         <li>
