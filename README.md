@@ -15,16 +15,13 @@ Currently, two official plugins are available:
         <b>Install Node.js:</b>
         <p>Ensure you have Node.js installed on your system. Download it from <a href="https://nodejs.org" target="_blank">https://nodejs.org</a>.</p>
     </li>
-</ol>
-<ol>
     <li>
-        
-    </li>    
-        <li>
-         <b>Set Up a React Project:</b>
+        <b>Set Up a React Project:</b>
          <p>Use <code>create-react-app</code> to set up your React project:</p>
          <pre><code>npx create-react-app news-app</code></pre>
-        </li>
+    </li>
+</ol>
+<ol>
         <li>
                 <b>Navigate to the Project Directory:</b>
                 <pre><code>cd news-app</code></pre>
