@@ -54,17 +54,15 @@ Currently, two official plugins are available:
 </ol>
 
 <h2>Folder Structure:</h2>
-<pre>
-        <code>
-news-app/
-├── public/       // Static files (e.g., index.html)
-├── src/          // React components, styles, and logic
-│   ├── components/  // Reusable UI components
-│   ├── App.js       // Main app component
-│   ├── index.js     // Entry point
-├── package.json  // Project dependencies and scripts
-        </code>
-</pre>
+<pre><code>
+    news-app/
+    ├── public/       // Static files (e.g., index.html)
+    ├── src/          // React components, styles, and logic
+    │   ├── components/  // Reusable UI components
+    │   ├── App.js       // Main app component
+    │   ├── index.js     // Entry point
+    ├── package.json  // Project dependencies and scripts
+</code></pre>
 <h2>Tips:</h2>
 <ul>
         <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> for pre-designed UI components.</li>
