@@ -1,3 +1,4 @@
+<p><b>NEWS-APP</b> is a React.js-based web application designed to provide users with instant access to the latest news and updates from around the world. Its sleek, responsive design ensures a seamless reading experience across all devices.</p>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
