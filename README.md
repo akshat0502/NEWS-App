@@ -1,6 +1,7 @@
 <p><b>NEWS-APP</b> is a React.js-based web application designed to provide users with instant access to the latest news and updates from around the world. Its sleek, responsive design ensures a seamless reading experience across all devices.</p>
 <p>Users can browse news articles across various categories, including politics, sports, entertainment, technology, and more. Advanced filters and personalized preferences allow users to tailor their news feed to match their interests.</p>
 <p>The platform offers real-time updates, breaking news alerts, and the ability to bookmark articles for later reading.</p>
+<p>For publishers, NewsFlash provides tools to manage content, track reader engagement, and deliver timely, reliable news to a global audience.</p>
 
 # React + Vite
 
